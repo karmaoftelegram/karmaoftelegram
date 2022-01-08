@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karmaoftelegram
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Karma_of_Telegram
